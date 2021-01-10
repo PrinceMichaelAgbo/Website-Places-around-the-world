@@ -1,0 +1,22 @@
+body
+{
+    background-color: yellow;
+}
+header
+{
+  text-align: left;
+  font-size: large;
+  color: Red;
+}
+main
+{
+  text-align: center;
+  font-size: medium;
+  color: black;
+}
+footer
+{
+  text-align: left;
+  font-size: small;
+  color: Red;
+}
